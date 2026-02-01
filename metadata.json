@@ -1,0 +1,7 @@
+{
+  "name": "AI Cartoon Video Maker",
+  "description": "Create 2D cartoon videos from scripts using AI. Designed for mobile creators to build viral YouTube Shorts and Instagram Reels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
